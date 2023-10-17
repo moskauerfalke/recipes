@@ -1,0 +1,23 @@
+{
+  "recipes": {
+    "id": "Zucchini-Pfannkuchen",
+    "ingredients": {
+      "Ei": {
+        "name": "Ei (ganz)",
+        "quantity": 4,
+        "measure": "Stück"
+      },
+      "Schwarzer Pfeffer": {
+        "name": "Schwarzer Pfeffer",
+        "quantity": 4,
+        "measure": "Prise"
+      },
+      "Zucchini": {
+        "name": "Zucchini",
+        "quantity": 600,
+        "measure": "Gramm"
+      }
+    },
+    "instructions": "Cut, fry, enjoy"
+  }
+}

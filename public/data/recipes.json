@@ -1,0 +1,15 @@
+{
+  "recipes": [
+    {
+      "id": "01",
+      "name": "Quark Tiramisu",
+      "ingredients": {
+        "Löffelbiskuit (Savoiardi)": 100,
+        "Quark": 1000,
+        "Likör": 50,
+        "Süßstoff": 20,
+        "Kakaopulver": 20
+      }
+    }
+  ]
+}
